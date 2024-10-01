@@ -30,7 +30,6 @@ This is a simple Spring Boot application that demonstrates CRUD operations for m
 
    ```bash
    git clone https://github.com/shivani-7024/curd_operation/tree/master
-   cd SpringBoot-Department-Management
    ```
 
 2. Configure the database in `application.properties`:
